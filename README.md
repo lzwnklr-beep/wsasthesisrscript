@@ -57,16 +57,7 @@ The main workflow expects these files in the repository root:
 - `wwn_deer.xlsx`
 - `documented_flood_drought_years.csv`
 
-Optional but included in this workspace:
-
-- `WWSAS_Thesis_ISU.Rproj`
-- `wwn_treedata.xlsx`
-- `wwn_treedata_sample_table.R`
-- `wwn_enso_rwi_analysis.R`
-- `wwn_enso_rwi_nonlinear_analysis.R`
-
 ## R Packages
-
 The scripts rely on these packages:
 
 - `ggplot2`
